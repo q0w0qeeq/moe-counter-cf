@@ -7,7 +7,7 @@ route = "moecount.0p0.top/*"
 compatibility_date = "2022-03-12"
 kv_namespaces = [
   { binding = "KV", id = "c929f0fc-60d4-4648-b4d8-6578fbf5c3ae"
-  ]
+]
 
 [build]
 command = "npm run build"
