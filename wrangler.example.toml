@@ -3,7 +3,7 @@ type = "javascript"
 account_id = "e162b85f374347561f10ceba6f2643e0"
 zone_id = "1f7ca2fd37644a0da6c3a6c8deb9b855"
 workers_dev = false
-route = "	moecount.0p0.top/*"
+route = "moecount.0p0.top/*"
 compatibility_date = "2022-03-12"
 kv_namespaces = [
   { binding = "KV", id = "c929f0fc-60d4-4648-b4d8-6578fbf5c3ae"]
